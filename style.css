@@ -1,0 +1,46 @@
+ 
+ 
+ 
+ 
+ .heading {
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+    font-size: xx-large;
+  }
+
+  .heading_div {
+    background: white;
+    font-size: large;
+    border-radius: 20px;
+    width: 60%;
+    color: black;
+    box-shadow: 5px 5px 5px grey;
+  }
+
+  .heading_div2 {
+    font-size: larger;
+  }
+
+  .label_p {
+    box-shadow: 5px 5px 5px grey;
+    font-size: 20px;
+  }
+.Accuracy_p{
+  box-shadow: 5px 5px 5px grey;
+  font-size: 20px;
+}
+
+
+  .copy_right_footer {
+    position: fixed;
+    float: left;
+    bottom: 0;
+    background-color: lightgray;
+  }
+
+  canvas{
+margin-top: 180px;
+
+  }
+
